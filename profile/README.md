@@ -5,7 +5,7 @@
 # Hey, this is UCT's Github!  
 
 > **Note**:
-> UCT's website source code is not open source and cannot be accessed by the public due to security reasons.
+> UCT's source code is not open source (yet!). 
 
 Here you will be able to find other components or repos that may be helpful to beginners looking to get into participating in UCT or to other organisation wanting to start similar competitions. 
 
